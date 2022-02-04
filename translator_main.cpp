@@ -194,4 +194,3 @@ int main()
     time_check(); //memory and time usage calculation
     return 0;
 }
-20220204.kartikeya_srivastava.sharad_kumar.jaypee_university_of_engineering_and_technology
